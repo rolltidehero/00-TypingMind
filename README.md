@@ -1,0 +1,2 @@
+# TypingMind
+ ChatGPT Tool - Premium
